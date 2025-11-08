@@ -10,7 +10,20 @@
 
 ## Dependencies
 
+- NodeJS
+- NPM
+
+### Arch Linux:
+
 - `sudo pacman -S nodejs npm`
+
+### Fedora
+
+- `sudo dnf install nodejs`
+
+### Ubuntu/Debian:
+
+- `sudo apt install -y nodejs npm`
 
 ## Build
 
