@@ -1,0 +1,26 @@
+{
+  "name": "youtube-music",
+  "version": "1.0.0",
+  "description": "YouTube Music",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": ["youtube", "music"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.youtubemusic.app",
+    "productName": "YouTubeMusic",
+    "linux": {
+      "target": ["AppImage"],
+      "category": "Audio",
+      "icon": "YouTubeMusic.png"
+    }
+  }
+}
