@@ -10,8 +10,8 @@
 
 ## Dependencies
 
-- NodeJS
-- NPM
+- [NodeJS](https://nodejs.org/en)
+- [NPM](https://www.npmjs.com/)
 
 ### Arch Linux:
 
