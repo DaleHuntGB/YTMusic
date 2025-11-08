@@ -5,10 +5,9 @@
     <img src="YouTubeMusic.png" alt="YouTube Music" width="256" />
 </p>
 
-- Basic **YouTubeMusic AppImage**. You can build it yourself or just run the simple script.
-- I have provided the script below for clarity on exactly what it'll be doing.
+- Basic **YouTubeMusic AppImage**. You can build it yourself or just run the script. **[Dependencies](#install-dependencies)** must be installed first.
 
-## Dependencies
+## Install Dependencies
 
 - [Electron](https://www.electronjs.org/)
 - [NodeJS](https://nodejs.org/en)
