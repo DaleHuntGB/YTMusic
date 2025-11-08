@@ -23,7 +23,7 @@
 
 ### Ubuntu/Debian:
 
-- `sudo apt install -y nodejs npm`
+- `sudo apt install nodejs npm`
 
 ## Build
 
