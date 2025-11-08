@@ -10,6 +10,7 @@
 
 ## Dependencies
 
+- [Electron](https://www.electronjs.org/)
 - [NodeJS](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/)
 
