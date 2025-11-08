@@ -28,7 +28,7 @@
 
 ### Download & Run Script
 - Run the below code if you want to just get the application up & running, you can **IGNORE** all steps below this if you choose this step.
-- `curl -LO https://github.com/DaleHuntGB/YTMusic/archive/refs/heads/main.zip && unzip main.zip && cd YTMusic-main && ./Setup.sh && cd .. && rm -rf YTMusic-main main.zip`
+- ```curl -LO https://github.com/DaleHuntGB/YTMusic/archive/refs/heads/main.zip && unzip main.zip && cd YTMusic-main && ./Setup.sh && cd .. && rm -rf YTMusic-main main.zip```
 
 ## Setup
 - `git clone https://github.com/DaleHuntGB/YTMusic`
