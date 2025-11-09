@@ -1,4 +1,3 @@
-// main.js
 const { app, BrowserWindow, globalShortcut } = require('electron');
 const path = require('path');
 
@@ -7,7 +6,7 @@ let win;
 function createWindow() {
   win = new BrowserWindow({
     width: 1280,
-    height: 800,
+    height: 720,
     icon: path.join(__dirname, 'YouTubeMusic.png'),
     webPreferences: {
       nodeIntegration: false,
