@@ -13,10 +13,11 @@
 - [Electron](https://www.electronjs.org/)
 - [NodeJS](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/)
+- FUSE
 
 ### Arch Linux:
 
-- `sudo pacman -S nodejs npm`
+- `sudo pacman -S electron nodejs npm fuse`
 
 ### Fedora
 
